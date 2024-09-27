@@ -1,0 +1,17 @@
+#root {
+  
+  width: 95%;
+  height: 95%;
+  margin: 0 auto;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  height: 60%;
+  width: 40%;
+  border:2px solid green;
+
+}
+
